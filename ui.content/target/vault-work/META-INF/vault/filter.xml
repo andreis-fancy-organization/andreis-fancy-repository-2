@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/cmjedibyog" mode="merge"/>
+    <filter root="/content/cmjedibyog" mode="merge"/>
+    <filter root="/content/dam/cmjedibyog/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/cmjedibyog" mode="merge"/>
+</workspaceFilter>

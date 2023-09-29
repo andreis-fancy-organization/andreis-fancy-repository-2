@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/cmjedibyog/clientlibs"/>
+    <filter root="/apps/cmjedibyog/components"/>
+    <filter root="/apps/cmjedibyog/i18n"/>
+</workspaceFilter>
