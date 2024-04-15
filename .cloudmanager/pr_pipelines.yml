@@ -1,2 +1,2 @@
 github:
-  shouldDeletePreviousComment: false
+  shouldDeletePreviousComment: true
